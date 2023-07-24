@@ -1,13 +1,13 @@
 [
   {
-    "name": "multiplier",
+    "name": "AnasCircuit",
     "protocol": "groth16",
-    "circuit": "multiplier/circuit.circom",
-    "input": "multiplier/input.json",
-    "wasm": "multiplier/out/circuit.wasm",
-    "zkey": "multiplier/out/multiplier.zkey",
-    "vkey": "multiplier/out/multiplier.vkey",
-    "r1cs": "multiplier/out/multiplier.r1cs",
+    "circuit": "AnasCircuit/circuit.circom",
+    "input": "AnasCircuit/input.json",
+    "wasm": "AnasCircuit/out/circuit.wasm",
+    "zkey": "AnasCircuit/out/AnasCircuit.zkey",
+    "vkey": "AnasCircuit/out/AnasCircuit.vkey",
+    "r1cs": "AnasCircuit/out/AnasCircuit.r1cs",
     "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
   }
 ]
